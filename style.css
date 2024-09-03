@@ -1,0 +1,367 @@
+/* Optional custom CSS to tweak appearance
+.navbar-brand img {
+    margin-left: 100px !important;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #333; /* Change link color */
+    /* margin-right: 15px;
+}
+
+.navbar-nav .nav-item .nav-link.btn-outline-dark {
+    border-color: transparent;
+    font-weight: bold;
+    color: #000;
+}
+
+.navbar-nav .nav-item .nav-link.btn-outline-dark:hover {
+    color: aqua;
+}
+
+    
+    .fuz{
+    margin-left: 190px;
+    margin-top: 20px;
+    font-size: 50px;
+    }
+    .fu{
+        margin-left: 190px;
+        margin-top: 20px;
+        font-size: 20px;
+        }
+    
+        .fuza{
+            margin-left: 190px;
+            margin-top: 20px;
+            font-size: 30px;
+            background-color: black;
+            color: white;
+            border-color: black !important;
+            border-radius: 50px !important;
+            }
+    
+    .rows{
+        display: flex;
+    }
+    .buton{
+        border: none;
+    }
+    
+    .consulation{
+        border: none;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    }
+    
+    .services{
+     background-color: #B9FF66;
+     padding: 3px;
+     border-radius: 10px;
+    }
+    .dfq{
+        margin-top: 30px !important;
+        padding-left:30px ;
+    }
+    
+    .sa{
+        margin-top: 50px;
+    }
+    
+    .big{
+        font-size: 40px;
+        background-color: green;
+        width: 200px;
+        height: 60px;
+        margin-left: 30px;
+        color: black;
+        border-radius: 10px;
+        padding: 1px 24px;
+    } */
+    /* .small{
+    font-size: 30px;
+    margin-left: 50px;
+    
+    }
+    
+    .uyi{
+        margin-top: 20px;
+    }
+    
+    .plo{
+    width: 300px;
+    height: 300px;
+    border: 2px solid gray;
+    background-color: white;
+    } */
+     
+.button:hover{
+background-color: black !important;
+color: white !important;
+
+}
+.pol{
+font-size: 20px;
+margin-left: 600px !important;
+padding: 10px 10px;
+}
+
+
+.io{
+width: 200px !important;
+margin-left: 200px;
+}
+@media screen and (max-width: 480px){
+    .io{
+        width: 200px !important;
+        margin-left: 5px;
+        }
+ 
+        .pol{
+            font-size: 20px;
+            margin-left: 10px !important;
+            
+            }
+            
+
+
+}
+
+
+h1{
+ margin-top: 20px !important;
+ margin-left: 300px !important;
+
+
+}
+
+
+h6{
+    margin-top: 20px !important;
+    margin-left: 300px !important;
+   
+   
+   }
+   
+
+
+   .butto{
+    background-color: black !important;
+    color: white !important;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+margin-left: 300px; 
+margin-top: 20px;  
+}    
+
+
+
+.ro{
+    margin-top: 20px !important;
+}
+
+
+
+
+@media screen and (max-width: 900px)
+{
+    h1{
+        margin-top: 20px !important;
+        margin-left: 5px !important;
+       
+       
+       }
+       
+       
+       h6{
+           margin-top: 20px !important;
+           margin-left: 5px !important;
+          
+          
+          }
+          .butto{
+            background-color: black !important;
+            color: white !important;
+            width: 200px;
+            height: 50px;
+            border-radius: 30px;
+        margin-left: 5px; 
+        margin-top: 20px;  
+        }  
+        .wq{
+            margin-left: 150px;
+            display: none;
+            }
+            .pl{
+                width: 400px !important;
+                margin-top: 30px;
+                }
+                .nm{
+                    margin-top: 20px;
+                }
+                h5{
+                    font-size: 40px !important;
+                    margin-left: 70px !important;
+                    background-color: rgb(72, 233, 72);
+                    border-radius: 0px;
+                    padding: 10px 10px;
+                    text-align: center !important;
+                    color: black;
+                    width: 200px;
+                    height: 70px;
+                }
+                .p{
+                    margin-left: 50px !important;
+                    font-size: 20px !important;
+                    display: none;
+                    }
+                    .op{
+                        margin-top: 30px;
+                        display: inline !important;
+                    }
+
+.as{
+margin-top: 20px;
+margin-left: 10px;
+
+}
+.mk{
+    border: 1px solid black;
+    width: 500px !important;
+  height: 350px;
+  margin-left: 20px !important;
+  border-radius: 30px;
+  margin-top: 40px !important;
+  box-shadow: 12px 12px 2px 1px black
+}
+
+.lo{
+    width: 220px;
+    margin-left: 150px !important;
+    
+    }
+}
+
+
+
+
+
+
+.pl{
+width: 450px;
+
+}
+
+
+.wq{
+margin-left: 150px;
+
+}
+
+.op{
+    margin-top: 30px;
+}
+h5{
+    font-size: 40px !important;
+    margin-left: 200px;
+    background-color: rgb(72, 233, 72);
+    border-radius: 0px;
+    padding: 10px 10px;
+    color: black;
+    width: 200px;
+    height: 70px;
+}
+.p{
+margin-left: 50px !important;
+font-size: 20px !important;
+
+}
+.mk{
+    border: 1px solid black;
+    width: 550px !important;
+  height: 350px;
+  margin-left: 150px;
+  border-radius: 30px;
+  margin-top: 40px !important;
+  box-shadow: 12px 12px 2px 1px black
+}
+
+h3{
+background-color:rgb(72, 233, 72) ;
+text-align: center !important;
+width: 220px;
+margin-top: 20px !important;
+border-radius: 20px;
+margin-left: 20px;
+}
+.lk{
+margin-top:2px;
+margin-left: 30px;
+
+}
+.ms{
+    border: 1px solid black;
+    width: 550px !important;
+  height: 350px;
+  margin-left: 30px;
+  border-radius: 30px;
+  background-color: lawngreen;
+  margin-top: 40px !important;
+  box-shadow: 12px 12px 2px 1px black
+}
+
+.lp{
+    margin-top:2px;
+    margin-left: 20px; 
+    font-size: 20px !important; 
+}
+
+
+
+.lo{
+width: 220px;
+margin-left: 220px
+
+}
+
+.h3{
+    background-color:white ;
+    text-align: center !important;
+    width: 220px;
+    margin-top: 20px !important;
+    border-radius: 20px;
+    margin-left: 20px;
+    }
+
+.yu{
+    font-size: 25px !important;
+    margin-left: 200px;
+    background-color: rgb(72, 233, 72);
+    border-radius: 0px;
+    padding: 10px 10px;
+    color: black;
+    width: 250px;
+    height: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
